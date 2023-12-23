@@ -4,16 +4,14 @@ namespace Desafio_Sistema_de_Hospedagem_Hotel.Models
 {
     public class Reserva
     {
+        public List<Pessoa> Hospedes { get; set;}
+        public Suite Suite{ get; set; }
+        private int _diasReservados;
         public Reserva(){ }
         public Reserva(int diasReservados)
         {
             DiasReservados = diasReservados;
         }
-        
-        public List<Pessoa> Hospedes { get; set;}
-        public Suite Suite{ get; set; }
-        private int _diasReservados;
-
         public decimal CalcularValorDiaria()
         {
             if(_diasReservados >= 10)
