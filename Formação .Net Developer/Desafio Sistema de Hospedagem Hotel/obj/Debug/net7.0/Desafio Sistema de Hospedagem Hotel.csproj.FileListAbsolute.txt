@@ -1,0 +1,15 @@
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\bin\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.exe
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\bin\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.deps.json
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\bin\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.runtimeconfig.json
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\bin\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.dll
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\bin\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.pdb
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\obj\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\obj\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\obj\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\obj\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.AssemblyInfo.cs
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\obj\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\obj\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.dll
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\obj\Debug\net7.0\refint\Desafio Sistema de Hospedagem Hotel.dll
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\obj\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.pdb
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\obj\Debug\net7.0\Desafio Sistema de Hospedagem Hotel.genruntimeconfig.cache
+C:\Users\mathe\Documents\Repositórios Git\Desafios_Dio.me\Formação .Net Developer\Desafio Sistema de Hospedagem Hotel\obj\Debug\net7.0\ref\Desafio Sistema de Hospedagem Hotel.dll
