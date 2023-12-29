@@ -11,9 +11,9 @@ namespace CriandoSistemaAbstraindoCelular.Models
         }
 
         public string Numero { get; set; }
-        public string Modelo { get; set; }
-        public string IMEI { get; set; }
-        public int Memoria { get; set; }
+        private string Modelo { get; set; }
+        private string IMEI { get; set; }
+        private int Memoria { get; set; }
 
         public void Ligar()
         {
